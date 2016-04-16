@@ -1,4 +1,7 @@
-
+/* A SMALL EXERCISE OF A COMPANY WITH F1 SCORE 
+   Use data in the file "train-tweets.txt"
+*/
+  
 
 import org.apache.spark.ml.classification.LogisticRegression
 import org.apache.spark.ml.param.ParamMap
