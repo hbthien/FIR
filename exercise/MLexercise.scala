@@ -1,4 +1,6 @@
-
+/**
+ * A technical exercise from an IT company 
+ */
 
 import org.apache.spark.ml.classification.LogisticRegression
 import org.apache.spark.ml.param.ParamMap
